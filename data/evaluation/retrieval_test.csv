@@ -1,0 +1,20 @@
+﻿id,question,expected_document_id,expected_document,answerability
+1,"What are the main objectives of the National Youth Policy?",DOC001,"Draft National Youth Policy 2025",answerable
+2,"What is the vision of the National Youth Policy 2025?",DOC001,"Draft National Youth Policy 2025",answerable
+3,"What is the mission of the National Youth Policy 2025?",DOC001,"Draft National Youth Policy 2025",answerable
+4,"What does the National Youth Policy say about youth leadership?",DOC001,"Draft National Youth Policy 2025",answerable
+5,"What opportunities are discussed for youth development in the National Youth Policy?",DOC001,"Draft National Youth Policy 2025",answerable
+6,"What are the objectives of PMKVY 4.0?",DOC002,"PMKVY 4.0 Guidelines",answerable
+7,"What is the purpose of PMKVY 4.0?",DOC002,"PMKVY 4.0 Guidelines",answerable
+8,"Who are the intended beneficiaries of PMKVY 4.0?",DOC002,"PMKVY 4.0 Guidelines",answerable
+9,"What is the objective of Jan Shikshan Sansthan 2.0?",DOC003,"Jan Shikshan Sansthan 2.0 Guidelines",answerable
+10,"What is the purpose of JSS 2.0 skill training?",DOC003,"Jan Shikshan Sansthan 2.0 Guidelines",answerable
+11,"Who are the target groups mentioned in JSS 2.0?",DOC003,"Jan Shikshan Sansthan 2.0 Guidelines",answerable
+12,"What is the role of the Ministry of Youth Affairs and Sports?",DOC004,"Ministry of Youth Affairs Annual Report 2023-24",answerable
+13,"What programmes for youth development are described in the annual report?",DOC004,"Ministry of Youth Affairs Annual Report 2023-24",answerable
+14,"What is the National Young Leaders Programme?",DOC004,"Ministry of Youth Affairs Annual Report 2023-24",answerable
+15,"What are the main objectives of the Youth Policy of Japan?",,"Not in corpus",unanswerable
+16,"What scholarship amount is provided to every Indian student under the National Youth Policy?",,"Not in corpus",unanswerable
+17,"What is the unemployment rate of Indian youth in 2035?",,"Not in corpus",unanswerable
+18,"Which government scheme guarantees a job to every Indian youth?",,"Not in corpus",unanswerable
+19,"What benefits does the National Youth Policy provide to foreign students?",,"Not in corpus",unanswerable
